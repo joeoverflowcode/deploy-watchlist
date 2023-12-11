@@ -4,7 +4,7 @@ import {useNavigate} from 'react-router-dom'
 import { Container } from "react-bootstrap"
 import Button from "react-bootstrap/Button"
 import buysell from '../../assets/buySell.jpg'
-import './style/UserProfilePage.css'
+import './style/userProfilePage.css'
 import { useEffect } from 'react'
 
 
