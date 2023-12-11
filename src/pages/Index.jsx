@@ -4,7 +4,7 @@ import './style/index.css'
 import Hero from "../components/Hero/Hero.jsx";
 import teenTrade from '../../assets/teentrading.jpg'
 
-import dataup from '../../assets/dataup.jpg'
+import dataup from '../../assets/dataUp.jpg'
 import invest from '../../assets/invest.jpg'
 import investup from '../../assets/investUp.jpg'
 import Button from 'react-bootstrap/esm/Button';
