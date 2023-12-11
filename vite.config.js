@@ -12,7 +12,7 @@ export default defineConfig({
   })],
   base: "/deploy-watchlist/",
   build: {
-		target: 'esnext',
+		target:['edge90','chrome90','firefox90','safari15']
 	},
   optimizeDeps: {
     esbuildOptions: {
