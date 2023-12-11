@@ -1,0 +1,19 @@
+
+.welcome{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.invest{
+    width: 500px;
+    border-radius: 120px;
+    border: solid gray 2px;
+    box-shadow: 20px 20px;
+    margin-bottom: 40px;
+}
+
+.buysell{
+    border: 5px black solid;
+    border-radius: 40px;
+}

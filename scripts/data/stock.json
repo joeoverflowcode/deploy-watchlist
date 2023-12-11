@@ -1,0 +1,22 @@
+[
+    {
+    "stockId": "1",
+    "stockSymbol": "AAPL"
+},
+{
+    "stockId": "2",
+    "stockSymbol": "MSFT"
+},
+{
+    "stockId": "3",
+    "stockSymbol": "ZOOM"
+},
+{
+    "stockId": "4",
+    "stockSymbol": "META"
+},
+{
+    "stockId": "5",
+    "stockSymbol": "TSLA"
+}
+]
