@@ -1,7 +1,7 @@
 import Hero from '../components/Hero/Hero.jsx'
 import {useNavigate} from 'react-router-dom'
 import axios from 'axios'
-import Watchlist from "../components/charts/watchList.jsx"
+import Watchlist from "../components/charts/Watchlist.jsx"
 import { Button } from "react-bootstrap"
 import {Container} from "react-bootstrap"
 import upArrow from '../../assets/upArrow.jpg'
