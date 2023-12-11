@@ -11,12 +11,4 @@ export default defineConfig({
     promiseImportName: i => `__tla_${i}`
   })],
   base: "/deploy-watchlist/",
-  optimizeDeps: {
-    esbuildOptions: {
-      target: "esnext",
-    },
-  },
-  build: {
-    target: "esnext",
-  },
 })
